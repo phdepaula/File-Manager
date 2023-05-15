@@ -15,7 +15,7 @@ The system works with 4 directories: in, out, bads and logs:
 
 * **LOGS**: Directory for system log records.
 
-> If they do not exist, the system will create them automatically.
+> **Note**: If they do not exist, the system will create them automatically.
 
 ---
 ## **How to run the code**
