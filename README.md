@@ -9,9 +9,9 @@ The system works with 4 directories: in, out, bads and logs:
 
 * **IN**: Input directory of the project that receives only text files (**.txt**).
 
-* **OUT**: Output directory for successfully processed files. In this case, everyone who has the word "chave" in their content.
+* **OUT**: Output directory for successfully processed files. In this case, everyone who has the word "key" in their content.
 
-* **BADS**: Output directory for files processed with errors. In this case, everyone who does not have the word "chave" in their content.
+* **BADS**: Output directory for files processed with errors. In this case, everyone who does not have the word "key" in their content.
 
 * **LOGS**: Directory for system log records.
 
