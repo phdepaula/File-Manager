@@ -2,7 +2,6 @@
 
 This project refers to a system that receives files, processes their data and redirects them to other directories.
 
----
 ## **Directory Descriptions**
 
 The system works with 4 directories: in, out, bads and logs: 
@@ -17,7 +16,6 @@ The system works with 4 directories: in, out, bads and logs:
 
 > **Note**: If they do not exist, the system will create them automatically.
 
----
 ## **How to run the code**
 
 Open the terminal and run the following command:
